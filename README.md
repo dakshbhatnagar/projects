@@ -11,8 +11,6 @@ Welcome to the Data Analysis Projects repository! This repository contains vario
 2. [Projects](#projects)
 3. [Installation](#installation)
 4. [Usage](#usage)
-5. [Contributing](#contributing)
-6. [License](#license)
 ---
 ## Introduction
 
@@ -56,5 +54,3 @@ To run the projects locally, follow these steps:
 ## Usage
 
 Navigate to each project directory and open the Jupyter Notebook files to view detailed analysis, code, and visualizations.
-
----
