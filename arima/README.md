@@ -1,7 +1,3 @@
-Certainly! Here's a refined and high-level overview of ARIMA and ARMA models for your README file:
-
----
-
 # Understanding ARIMA and ARMA Models
 
 ## Introduction
@@ -61,7 +57,7 @@ The MA part models the current value of the series as a linear combination of pa
 **Formula:**
 $$ X_t = \mu + \sum_{i=1}^{q} \theta_i \epsilon_{t-i} + \epsilon_t $$
 
----
+----
 
 ## ARIMA Model
 
