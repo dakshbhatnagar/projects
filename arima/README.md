@@ -49,6 +49,11 @@ The AR part models the current value of the series as a linear combination of it
 **Formula:**
 $$ X_t = c + \sum_{i=1}^{p} \phi_i X_{t-i} + \epsilon_t $$
 
+We were able to make decent predictions as seen below using the ARMA Model
+
+![ARMA Model](armna.jpg)
+
+
 
 ### Moving Average (MA) Part
 
@@ -76,6 +81,11 @@ The integrated part involves differencing the time series data to make it statio
 3. **Parameter Selection:** Determine model parameters (`p`, `d`, `q`) using tools like ACF and PACF plots.
 4. **Model Training:** Fit the ARIMA model to your data.
 5. **Model Evaluation:** Assess model performance using metrics such as AIC, BIC, and residual analysis.
+
+Below is a chart that displays the actual values and the predictions made on stock data by our ARIMA model where the p,d and q values were 1,1,0.
+
+![ARMA Model](ARIMA.jpg)
+
 
 ---
 
