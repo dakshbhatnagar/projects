@@ -41,8 +41,8 @@ To run the projects locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/dakshbhatnagar/data-analysis-projects.git
-   cd data-analysis-projects
+   git clone https://github.com/dakshbhatnagar/projects.git
+   cd projects
    ```
 
 2. Install the required Python libraries:
