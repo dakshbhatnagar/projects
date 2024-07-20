@@ -2,7 +2,10 @@
 
 ## Introduction
 
-This project aims to provide a comprehensive understanding of ARIMA (AutoRegressive Integrated Moving Average) and ARMA (AutoRegressive Moving Average) models. These models are fundamental in time series analysis, enabling us to analyze historical data, identify patterns, and make predictions for future values.
+This project aims to provide a comprehensive understanding of ARIMA (AutoRegressive Integrated Moving Average) and ARMA (AutoRegressive Moving Average) models. 
+
+
+These models are fundamental in time series analysis, enabling us to analyze historical data, identify patterns, and make predictions for future values.
 
 ---
 
@@ -47,7 +50,7 @@ The ARMA Model combines Autoregressive (AR) and Moving Average (MA) components t
 The AR part models the current value of the series as a linear combination of its own past values.
 
 **Formula:**
-$$ X_t = c + \sum_{i=1}^{p} \phi_i X_{t-i} + \epsilon_t $$
+$$X_t = c + \sum_{i=1}^{p} \phi_i X_{t-i} + \epsilon_t$$
 
 We were able to make decent predictions as seen below using the ARMA Model
 
@@ -60,7 +63,7 @@ We were able to make decent predictions as seen below using the ARMA Model
 The MA part models the current value of the series as a linear combination of past error terms.
 
 **Formula:**
-$$ X_t = \mu + \sum_{i=1}^{q} \theta_i \epsilon_{t-i} + \epsilon_t $$
+$$X_t = \mu + \sum_{i=1}^{q} \theta_i \epsilon_{t-i} + \epsilon_t$$
 
 ----
 
