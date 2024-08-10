@@ -1,10 +1,10 @@
-**# Data Analysis Projects**
+**Data Analysis Projects**
 
 Welcome to the Data Analysis Projects repository! This collection features various data analysis projects using Python, designed for learning and showcasing data analysis techniques.
 
 ---
 
-**## Table of Contents**
+**Table of Contents**
 
 1. **Introduction**
 2. **Projects**
@@ -13,13 +13,13 @@ Welcome to the Data Analysis Projects repository! This collection features vario
 
 ---
 
-**## Introduction**
+**Introduction**
 
 This repository highlights different data analysis projects utilizing Python, with a focus on ARIMA time series analysis and supply chain optimization. Each project includes thorough analysis, implementation, and visualization using popular Python libraries.
 
 ---
 
-**## Projects**
+**Projects**
 
 ### 1. ARIMA Time Series Analysis
 
@@ -41,7 +41,7 @@ This repository highlights different data analysis projects utilizing Python, wi
 
 ---
 
-**## Installation**
+**Installation**
 
 To run the projects locally, follow these steps:
 
@@ -60,6 +60,6 @@ To run the projects locally, follow these steps:
 
 ---
 
-**## Usage**
+**Usage**
 
 Navigate to each project directory and open the Jupyter Notebook files to view detailed analysis, code, and visualizations.
