@@ -25,6 +25,26 @@ For ease of usage the survey results file (a CSV File) has been converted to a p
 13. **OrgSize**: Size of the organization where the respondent works.
 
 
+## Insights:
+
+Below are some of the insights from the analysis done:-
+
+- **Developer Demographics**: The majority of developers fall within the 18 to 54 age range, with a notable portion of respondents identifying as professional developers. Age distribution remains consistent across both professional and non-professional developers.
+
+- **Work Preferences and Compensation**: A significant share of developers work remotely, with larger organizations dominating the respondent pool. Compensation trends show that most developers earn within the $70,000 range, and those earning above this level typically have over 10 years of experience.
+
+- **Job Satisfaction**: Around 25% of developers report being highly satisfied with their jobs, highlighting a generally positive outlook among the community.
+
+- **Technical Skills and Preferences**: JavaScript and PostgreSQL remains the most commonly used language, followed by other HTML/CSS and Python. Developers however also want to start working with languages like Rust, Go and databases like Redis and Microsoft SQL Server.  
+
+- **Tools and Collaboration**: Popular tools include VS Code, Git, and Jupyter Notebook. There is also significant participation in open-source projects among professional developers.
+
+- **Learning and Productivity**: Developers mostly learn coding through online resources and spend a considerable amount of time searching for solutions and helping others. This demonstrates a strong culture of continuous learning and knowledge-sharing within the community.
+
+- **Regional Trends**: Germany, India and the USA stand out as leading countries for developer count, with different regions showing unique distributions in developer roles, such as mobile development in India and cloud infrastructure in the USA.
+
+- **AI Threat**: With the advent of AI in our lives, there has been a threat that AI will take away their jobs however as per the data, 48% of the devs think that AI is not a threat to their jobs.
+
 ## Installation
 
 To run the project locally, open up the code editor of your choice and move to the terminal. Then follow the instructions below:-
