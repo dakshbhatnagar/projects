@@ -24,9 +24,9 @@ How can we optimize inventory management and reduce costs while improving custom
 ## Insights
 
 - ### Inventory Ratio
-    - Delhi has the highest Inventory Ratio however Bangalore has the lowest Inventory Turnover Ratio. This means Delhi needs to ensure the stock is moving out quick from the godown. 
-    - In Mumbai, Supplier 1 and Supplier 4 has the highest Inventory turnover ratio which means they are not able to push the stock out of the godown as quickly as expected.
+    1. Delhi has the highest Inventory Ratio however Bangalore has the lowest Inventory Turnover Ratio. This means Delhi needs to ensure the stock is moving out quick from the godown. 
+    2. In Mumbai, Supplier 1 and Supplier 4 has the highest Inventory turnover ratio which means they are not able to push the stock out of the godown as quickly as expected.
 
 - ### Defect Rate
-    - Based on the table above, these SKUs are associated with suppliers that have the highest average defect rates.
-    - Engaging with them could provide insights into the challenges they face, particularly in Chennai, where two Product Types show the highest average defect rates.
+    1. Based on the table above, these SKUs are associated with suppliers that have the highest average defect rates.
+    2. Engaging with them could provide insights into the challenges they face, particularly in Chennai, where two Product Types show the highest average defect rates.
