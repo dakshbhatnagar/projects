@@ -4,13 +4,26 @@ The Stack Overflow Developer Survey is one of the most comprehensive and widely-
 
 Conducted annually, the survey captures a broad spectrum of data, from demographics and education to work environments, tools, and technologies.
 
+![image](./Stack_Overflow-Logo.png)
+
+**Table of Contents**
+-----------------
+
+* [Introduction](#introduction)
+* [Dataset Information](#dataset-information)
+* [Insights](#insights)
+* [Installation](#installation)
+* [Usage](#usage)
+
+## Introduction
+
 In this analysis, we delve into the latest Stack Overflow survey results, exploring key trends and patterns that define the global developer community.
 
 By examining responses from thousands of developers, we aim to uncover insights into the technologies that are shaping the future, the challenges faced by developers, and the evolving landscape of the tech industry.
 
 ## Dataset Information
 
-The dataset has been taken from the [official website](https://survey.stackoverflow.co). What gets downloaded is a zip folder containing bunch of CSV file and a PDF which is basically the [survey](Survey.pdf) that was asked to fill by the respondents.
+The dataset has been taken from the [official website](https://survey.stackoverflow.co). What gets downloaded is a zip folder containing bunch of CSV file and a PDF which is basically the [survey](.stack-overflow-survey/Survey.pdf) that was asked to fill by the respondents.
 
 For ease of usage the survey results file (a CSV File) has been converted to a parquet file. There are 65,000 rows and 114 columns. Some of the questions on the survey are:-
 
