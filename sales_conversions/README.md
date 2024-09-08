@@ -2,9 +2,11 @@
 
 This notebook presents an analysis of lead conversion data collected from a travel booking company. The dataset includes various attributes related to leads, their sources, assigned agents, enquiry destinations, and the outcomes of these leads. 
 
-By examining this data, we aim to uncover key insights and trends that can help in understanding the effectiveness of different lead sources, the performance of agents, and the preferences of clients.
+By examining this data, we aim to uncover key insights and trends that can help in understanding the effectiveness of different lead sources, the performance of agents, and the preferences of customers, most preferred destinations and the best salesperson.
 
-![image](94676301.cms.jpeg)
+![image](travel.jpeg)
+
+---
 
 ## Key Insights
 
@@ -18,6 +20,8 @@ The analysis reveals several key insights:
 - **Passenger Count and Total Bill**: There is a strong positive correlation between the number of passengers and the total bill, indicating that larger groups tend to generate higher revenue.
 - **Salesperson Performance**:  Sales Person 33 consistently converts leads from specific sources and destinations, suggesting that replicating their strategies could improve overall performance.
 
+---
+
 ## Recommendations
 
 Based on these insights, the following strategic recommendations are made:
@@ -27,3 +31,25 @@ Based on these insights, the following strategic recommendations are made:
 3. **Promote Underperforming Destinations**: Run discounts and special promotions for destinations with lower enquiry rates.
 4. **Capitalize on Peak Periods**: Focus marketing efforts and promotions during high lead months like August.
 5. **Investigate 2024 Performance**: Analyze factors leading to the decline in trips and revenue compared to 2023.
+---
+## Installation
+
+To run the project locally, open up the code editor of your choice and move to the terminal. Then follow the instructions below:-
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/dakshbhatnagar/projects/sales_conversions.git
+   ```
+
+2. Switch to the directory:
+   ```bash
+   cd sales_conversions
+   ```
+
+You can now start browsing files and exploring data locally on your machine.
+   
+---
+## Usage
+
+Navigate to and open the [Jupyter Notebook](conversions.ipynb) files to view detailed analysis, code, and visualizations.
