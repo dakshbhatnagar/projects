@@ -1,23 +1,14 @@
 # 🏪 Bike Rental Shop - SQL Case Study
 
 ## 📋 Introduction
-Emily is the shop owner, and she would like to gather data to help her grow the business. 
-
-
-![image](https://freedo.rentals/static/media/product-slider.d4f714f5b4d90aae583e.png)
-
-
-She has hired you as an SQL specialist to get the answers to her business questions, such as:
+Emily is the shop owner, and she would like to gather data to help her grow the business. She has hired you as an SQL specialist to get the answers to her business questions, such as:
 
 - **How many bikes does the shop own by category?**
 - **What was the rental revenue for each month?**
 
+The answers are hidden in the database, and our job is to figure out how to extract them using SQL. This case study is taken from [LearnSQL.com](https://learnsql.com). It is part of their **"November 2023 SQL Challenge"** course.
 
-
-The answers are hidden in the database, and our job is to figure out how to extract them using SQL.
-
-This case study is taken from [LearnSQL.com](https://learnsql.com). It is part of the **"November 2023 SQL Challenge"** course.
-
+---
 
 ## 🗄️ Understanding the Database
 The shop’s database consists of **5 tables**:
@@ -27,7 +18,6 @@ The shop’s database consists of **5 tables**:
 3. `rental`
 4. `membership_type`
 5. `membership`
-
 
 ### 1. `customer` Table
 Contains details about the customers of the bike rental shop.
@@ -87,3 +77,7 @@ Provides details about individual memberships purchased by customers.
 | `start_date`          | The start date of the membership.                    |
 | `end_date`            | The end date of the membership.                      |
 | `total_paid`          | The total amount paid for the membership.            |
+
+The questions are already in a PDF file within the project folder. The queries along with the questions are in the notebook so you feel free to correlate.
+
+*Happy Exploring*
