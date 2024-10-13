@@ -11,7 +11,7 @@ This project analyzes the Horse Colic Dataset, a collection of medical records f
 The goal is to predict the outcome (survival or non-survival) of horses based on their medical conditions, treatment, and other factors.
 
 ## Dataset Information
-The dataset contains 368 instances and 28 attributes, which are categorized as follows:
+The dataset contains 1235 rows and 29 columns, which are categorized as follows:
 - **Demographic Information**: Includes details like age and hospital number.
 - **Clinical Measurements**: Includes rectal temperature, pulse, respiratory rate, etc.
 - **Subjective Assessments**: Evaluates pain level, mucous membranes, capillary refill time, and more.
