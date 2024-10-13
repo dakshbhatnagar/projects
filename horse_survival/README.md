@@ -51,12 +51,12 @@ Additionally, lesion types, locations, and whether surgery was performed are inc
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/dakshbhatnagar/projects/horse_colic.git
+   git clone https://github.com/dakshbhatnagar/projects/horse_survival.git
    ```
 
 2. Switch to the directory:
    ```bash
-   cd horse_colic
+   cd horse_survival
    ```
 
 3. Install the required dependencies:
