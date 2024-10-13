@@ -1,12 +1,14 @@
 ## Naukri Job Scraper
 
-This Python script scrapes job listings from the Naukri.com website for Data Analyst positions in Delhi/NCR. It then stores the scraped data in a Pandas DataFrame and exports it to a Google Sheet and a CSV file.
+This Python script scrapes job listings from the Naukri.com website for **Data Analyst** positions in Delhi/NCR. 
 
 ![image](https://cdn.prod.website-files.com/65d48bc2b64ae3248b634894/664456d40e4d86aa223b002b_663cc350a3c22ab469f8bac7_JobScrapingMethodsInsightsandAlternatives_1.svg)
 
+It then stores the scraped data in a Pandas DataFrame and exports it to a Google Sheet and a CSV file.
+
 ---
 
-**Here's how it works:**
+**How Script works:**
 
 1. **Import Libraries:** The script imports necessary libraries like Pandas for data manipulation, Selenium for web scraping, and Google API for interacting with Google Sheets.
 2. **Set Up WebDriver:** It configures a Chrome WebDriver to access the Naukri.com website.
@@ -39,10 +41,12 @@ cd job_scraping
 
 You can now start browsing files and exploring data locally on your machine.
 
+---
+
 **To use this script:**
 
 1. **Install Requirements:** Run `pip3 install -r requirements.txt` command to install the necessary libraries.
-2. **Set Up Google API Credentials:** Obtain a Google API key and store it in a file named `keys.json`.
+2. **Set Up Google API Credentials:** Create a project in Google Cloud. Enable Billing and Obtain a Google API key and store it in a file named `keys.json`.
 3. **Modify Spreadsheet ID:** Replace `'your_sheet_id'` with your Google Sheet ID.
 4. **Run the Script:** Execute the script to scrape and export the data.
 
