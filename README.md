@@ -42,12 +42,16 @@
 <h2 id="installation" style="color: #0000ff">Installation</h2>
 <p>To run the projects locally, follow these steps:</p>
 <ol>
-    <li><strong>Clone the repository:</strong></li>
-    <pre><code>git clone https://github.com/dakshbhatnagar/projects.git
-cd projects</pre>
-    <pre>cd Your_Folder_Of_Choice</code></pre>
-    <li><strong>Install the required Python libraries:</strong></li>
-    <pre><code>pip install -r requirements.txt</code></pre>
+    <li><strong>Clone the repository:</strong>
+        <pre><code>git clone https://github.com/dakshbhatnagar/projects.git
+cd projects</code></pre>
+    </li>
+    <li><strong>Navigate to your folder of choice:</strong>
+        <pre><code>cd Your_Folder_Of_Choice</code></pre>
+    </li>
+    <li><strong>Install the required Python libraries:</strong>
+        <pre><code>pip install -r requirements.txt</code></pre>
+    </li>
 </ol>
 
 <h2 id="usage" style="color: #0000ff">Usage</h2>
