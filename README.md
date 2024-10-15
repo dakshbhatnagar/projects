@@ -44,8 +44,8 @@
 <ol>
     <li><strong>Clone the repository:</strong></li>
     <pre><code>git clone https://github.com/dakshbhatnagar/projects.git
-cd projects
-        cd Your_Folder_Of_Choice</code></pre>
+cd projects</pre>
+    <pre>cd Your_Folder_Of_Choice</code></pre>
     <li><strong>Install the required Python libraries:</strong></li>
     <pre><code>pip install -r requirements.txt</code></pre>
 </ol>
