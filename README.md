@@ -27,7 +27,7 @@
 <ul>
     <li>The project Presents an analysis of lead conversion data collected from a travel booking company. The dataset includes various attributes related to leads, their sources, assigned agents, enquiry destinations, and the outcomes of these leads.</li>
     <li><strong>Libraries Used:</strong> <code>pandas</code>, <code>numpy</code>, <code>matplotlib</code><code>sqlite3</code></li>
-    <li><strong>File:</strong> <a href="analysis.ipynb">/sales_conversions/conversions.ipynb</a></li>
+    <li><strong>File:</strong> <a href="/sales_conversions/analysis.ipynb">conversions.ipynb</a></li>
 </ul>
 
 <h3>3. Olympics Dataset Analysis</h3>
