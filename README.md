@@ -20,7 +20,7 @@
 <ul>
     <li>This project delves into ARIMA (AutoRegressive Integrated Moving Average) models for time series forecasting. It covers model fitting, diagnostics, and predictions using real-world datasets.</li>
     <li><strong>Libraries Used:</strong> <code>pandas</code>, <code>numpy</code>, <code>matplotlib</code>, <code>statsmodels</code></li>
-    <li><strong>File:</strong> <a href="arima.ipynb">arima.ipynb</a></li>
+    <li><strong>File:</strong> <a href="/arima/arima.ipynb">arima.ipynb</a></li>
 </ul>
 
 <h3>2. Supply Chain Optimization</h3>
@@ -34,7 +34,7 @@
 <ul>
     <li>Provides a comprehensive analysis of the Summer and Winter Olympic athletes and their results from 1896 to 2022.</li>
     <li><strong>Libraries Used:</strong> <code>pandas</code>, <code>numpy</code>, <code>matplotlib</code>, <code>sqlite3</code>, <code>os</code></li>
-    <li><strong>File:</strong> <a href="clean_data.ipynb">clean_data.ipynb</a></li>
+    <li><strong>File:</strong> <a href="/Olympics/clean_data.ipynb">clean_data.ipynb</a></li>
 </ul>
 
 <p>and many more to come...</p>
